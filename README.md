@@ -1,2 +1,2 @@
 # Architect
-Knowledge
+This project aims to share public system architecture knowledge.
